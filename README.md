@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/🧠-Clean%20Code-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐-APIs%20REST-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Design-FFB6C1?style=for-the-badge" />
-</p>[
+</p>
 
 <br>
 <br>
