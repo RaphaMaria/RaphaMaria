@@ -86,7 +86,11 @@
   </a>
 </p>
 
+<br>
+<br>
 <p align="center">--------------------  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ---------------------</p>
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -109,8 +113,11 @@
   <img alt="snake gif" src="https://raw.githubusercontent.com/RaphaMaria/RaphaMaria/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br>
+<br>
 <p align="center">--------------------  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ---------------------</p>
-
+<br>
+<br>
 
 ## 🌐 Onde me encontrar
 
