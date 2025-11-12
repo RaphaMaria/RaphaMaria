@@ -80,12 +80,10 @@
 
 <p align="center">
   <a href="https://github.com/DudaCacciatore/iara">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DudaCacciatore&repo=iara&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DudaCacciatore&repo=iara&theme=radical" width="400" />
   </a>
- <a href="https://github.com/Zyntraofc/aion-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyntraofc&repo=aion-react&theme=tokyonight" />
-  </a>
 </p>
+
 
 <br>
 <br>
