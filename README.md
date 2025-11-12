@@ -37,14 +37,14 @@
 
 ## ☕ Sobre mim
 
-- 🍜 Viciada em **cup noodles** (café da manhã? almoço? janta? talvez 👀)  
+- 🍜 Viciada em **cup noodles** (café da manhã? almoço? janta? talvez...)  
 - 🐱 Tenho um gato chamado **Luke**, ele que realmente coda  
 - 🎧 Vibe musical: **pop tailandês + MPB**  
 
 
 <p align="center">--------------------  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ---------------------</p>
 
-## 🛠️ Tecnologias & Ferramentas que uso
+## 🛠️ Tecnologias que eu gosto
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -63,9 +63,9 @@
   <a href="https://github.com/DudaCacciatore/iara">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DudaCacciatore&repo=iara&theme=radical" />
   </a>
-  <a href="https://github.com/Zyntraofc/aion-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyntraofc&repo=portfolio&theme=tokyonight" />
-  </a>
+ <a href="https://github.com/Zyntraofc/aion-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyntraofc&repo=aion-react&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">--------------------  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ---------------------</p>
