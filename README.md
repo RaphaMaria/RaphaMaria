@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6BCB&height=120&section=header&fontSize=28&fontColor=ffffff&animation=twinkling" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&width=550&lines=Oi,+eu+sou+a+Rapha!;FrontDev+em+constante+evolução..." alt="Typing SVG" />
 </p>
