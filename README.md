@@ -20,10 +20,9 @@
 
 <!-- ✨ BADGES DE HUMOR E PERSONALIDADE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Night%20Coder%20🌙-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CupNoodles%20Fuel%20🍜-FF6BCB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cat%20Assistant%20🐱-Luke-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Music%20Vibes%20🎧-thai%20pop%20+%20mpb-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Music%20%20🎧-thai%20pop%20+%20mpb-orange?style=for-the-badge" />
 </p>
 
 <br>
@@ -92,6 +91,3 @@
 
 <br>
 
-<p align="center">
-  🌙 Feito com carinho por <strong>RaphaMaria e Luke</strong> 🐱💜
-</p>
