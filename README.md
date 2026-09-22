@@ -1,9 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&width=450&lines=Oi,+eu+sou+a+Rapha!" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfp9edr-8fe80eec-0c7b-4e41-8520-0e61575aa5cb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wZmY3MWUxNS1hNmY0LTQ0ZWYtOTU1Yy05OWM3OGQ5NTljNDQvZGZwOWVkci04ZmU4MGVlYy0wYzdiLTRlNDEtODUyMC0wZTYxNTc1YWE1Y2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZiW5K7STlBBtLu5p8gpq2Rizqj8sEdHAqGlVY07Ymo" width="350" alt="aesthetic coding gif"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&width=450&lines=Oi,+eu+sou+a+Rapha!" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- SEÇÃO LADO A LADO: DESCRIÇÃO + GIF -->
+<table border="0" align="center">
+  <tr>
+    <td valign="center">
+      🎓 <strong>Estudante de Desenvolvimento de Sistemas</strong> no <em>Germinare Tech</em><br><br>
+      💻💚 <strong>Auxiliar de TI na PicPay</strong>
+    </td>
+    <td width="20"></td> <!-- Espaçamento entre o texto e a imagem -->
+    <td valign="center" align="center">
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfp9edr-8fe80eec-0c7b-4e41-8520-0e61575aa5cb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wZmY3MWUxNS1hNmY0LTQ0ZWYtOTU1Yy05OWM3OGQ5NTljNDQvZGZwOWVkci04ZmU4MGVlYy0wYzdiLTRlNDEtODUyMC0wZTYxNTc1YWE1Y2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZiW5K7STlBBtLu5p8gpq2Rizqj8sEdHAqGlVY07Ymo" width="280" alt="aesthetic coding gif"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- ✨ BADGES DE HUMOR E PERSONALIDADE -->
 <p align="center">
@@ -14,20 +29,6 @@
 </p>
 
 <br>
-<br>
-
-<br>
-<br>
-
-
-🎓 **Estudante de Desenvolvimento de Sistemas** no *Germinare Tech*  
-💻💚 **Auxiliar de TI na Picpay**
-
-<br>
-<br>
-<br>
-<br>
-
 
 ## 🌱 Atualmente aprendendo
 
@@ -39,10 +40,6 @@
 </p>
 
 <br>
-<br>
-
-<br>
-<br>
 
 ## ☕ Sobre mim
 
@@ -50,9 +47,6 @@
 - 🐱 Tenho um gato chamado **Luke**, ele que realmente coda  
 - 🎧 Vibe musical: **pop tailandês + MPB**  
 
-<br>
-<br>
-<br>
 <br>
 
 ## 🛠️ Tecnologias que eu gosto
@@ -67,9 +61,6 @@
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 <h3 align="center">🚀 Meus Projetos Favoritos</h3>
 
@@ -79,10 +70,6 @@
   </a>
 </p>
 
-
-<br>
-<br>
-<br>
 <br>
 
 ## 📊 GitHub Stats
@@ -93,21 +80,16 @@
 </p>
 
 <br>
-<br>
-<br>
-<br>
-
 
 ### 🐍 Minhas contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaMaria/RaphaMaria/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake gif" src="https://raw.githubusercontent.com/RaphaMaria/RaphaMaria/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaphaMaria/RaphaMaria/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake gif" src="https://raw.githubusercontent.com/RaphaMaria/RaphaMaria/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<br>
-<br>
-<br>
 <br>
 
 ## 🌐 Onde me encontrar
@@ -121,10 +103,8 @@
   </a>
 </p>
 
-
-
+<br>
 
 <p align="center">
-  🌙 Feito com carinho por <strong>RaphaMaria e Luke</strong> 🐱💜<br/>
+  🌙 Feito com carinho por <strong>RaphaMaria e Luke</strong> 🐱💜
 </p>
-
