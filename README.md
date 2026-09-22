@@ -5,20 +5,16 @@
 <br>
 
 <!-- SEÇÃO LADO A LADO: DESCRIÇÃO EXPANDIDA + GIF (TABELA 100% INVISÍVEL) -->
-<table border="0" align="center" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none;">
-    <td valign="center" style="border: none;">
-      ✨ <strong>Desenvolvedora em Formação & Entusiasta da Tecnologia</strong><br><br>
-      🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <em>Germinare Tech</em><br>
-      💻 Auxiliar de <strong>TI no PicPay</strong>, aplicando soluções na prática e aprendendo todos os dias<br><br>
-      🚀 Apaixonada por criar experiências marcantes no Front-end, arquitetar APIs eficientes e resolver problemas complexos com código limpo.
-    </td>
-    <td width="30" style="border: none;"></td>
-    <td valign="center" align="center" style="border: none;">
-      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfp9edr-8fe80eec-0c7b-4e41-8520-0e61575aa5cb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wZmY3MWUxNS1hNmY0LTQ0ZWYtOTU1Yy05OWM3OGQ5NTljNDQvZGZwOWVkci04ZmU4MGVlYy0wYzdiLTRlNDEtODUyMC0wZTYxNTc1YWE1Y2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZiW5K7STlBBtLu5p8gpq2Rizqj8sEdHAqGlVY07Ymo" width="280" alt="aesthetic coding gif"/>
-    </td>
-  </tr>
-</table>
+
+
+<p>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfp9edr-8fe80eec-0c7b-4e41-8520-0e61575aa5cb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wZmY3MWUxNS1hNmY0LTQ0ZWYtOTU1Yy05OWM3OGQ5NTljNDQvZGZwOWVkci04ZmU4MGVlYy0wYzdiLTRlNDEtODUyMC0wZTYxNTc1YWE1Y2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZiW5K7STlBBtLu5p8gpq2Rizqj8sEdHAqGlVY07Ymo" align="right" width="280" alt="aesthetic coding gif"/>
+  ✨ <strong>Desenvolvedora em Formação & Entusiasta da Tecnologia</strong><br><br>
+  🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <em>Germinare Tech</em><br>
+  💻 Desenvolvedora <strong>Júnior no PicPay</strong>, aplicando soluções na prática e aprendendo todos os dias<br><br>
+  🚀 Apaixonada por criar experiências marcantes no Front-end, arquitetar APIs eficientes e resolver problemas complexos com código limpo.
+</p>
+<br clear="all">
 
 <br>
 
