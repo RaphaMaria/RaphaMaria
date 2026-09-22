@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&width=450&lines=Oi,+eu+sou+a+Rapha!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6BCB&center=true&vCenter=true&width=450&lines=Eu+sou+a+Rapha!" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- SEÇÃO LADO A LADO: DESCRIÇÃO + GIF -->
-<table border="0" align="center">
-  <tr>
-    <td valign="center">
-      🎓 <strong>Estudante de Desenvolvimento de Sistemas</strong> no <em>Germinare Tech</em><br><br>
-      💻💚 <strong>Auxiliar de TI na PicPay</strong>
+<!-- SEÇÃO LADO A LADO: DESCRIÇÃO EXPANDIDA + GIF (TABELA 100% INVISÍVEL) -->
+<table border="0" align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none;">
+    <td valign="center" style="border: none;">
+      ✨ <strong>Desenvolvedora em Formação & Entusiasta da Tecnologia</strong><br><br>
+      🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <em>Germinare Tech</em><br>
+      💻 Auxiliar de <strong>TI no PicPay</strong>, aplicando soluções na prática e aprendendo todos os dias<br><br>
+      🚀 Apaixonada por criar experiências marcantes no Front-end, arquitetar APIs eficientes e resolver problemas complexos com código limpo.
     </td>
-    <td width="20"></td> <!-- Espaçamento entre o texto e a imagem -->
-    <td valign="center" align="center">
+    <td width="30" style="border: none;"></td>
+    <td valign="center" align="center" style="border: none;">
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ff71e15-a6f4-44ef-955c-99c78d959c44/dfp9edr-8fe80eec-0c7b-4e41-8520-0e61575aa5cb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wZmY3MWUxNS1hNmY0LTQ0ZWYtOTU1Yy05OWM3OGQ5NTljNDQvZGZwOWVkci04ZmU4MGVlYy0wYzdiLTRlNDEtODUyMC0wZTYxNTc1YWE1Y2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ZiW5K7STlBBtLu5p8gpq2Rizqj8sEdHAqGlVY07Ymo" width="280" alt="aesthetic coding gif"/>
     </td>
   </tr>
@@ -26,17 +28,6 @@
   <img src="https://img.shields.io/badge/CupNoodles%20Fuel%20🍜-FF6BCB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cat%20Assistant%20🐱-Luke-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Music%20Vibes%20🎧-thai%20pop%20+%20mpb-orange?style=for-the-badge" />
-</p>
-
-<br>
-
-## 🌱 Atualmente aprendendo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💫-React%20Hooks-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠-Clean%20Code-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐-APIs%20REST-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Design-FFB6C1?style=for-the-badge" />
 </p>
 
 <br>
@@ -75,8 +66,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaphaMaria&theme=tokyonight&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaMaria&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaphaMaria&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaMaria&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <br>
